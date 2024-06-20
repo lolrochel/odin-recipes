@@ -1,0 +1,33 @@
+* {
+  font-family: 'Monaco', 'Lucida Console', 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+img {
+  height: 400px;
+  width: auto;
+}
+
+h3, li {
+  text-align: left;
+}
+
+.intro {
+  font-size: 20px;
+}
+
+h2 {
+  background-color: #f5630281;
+}
+
+.recipelink{
+  font-size: 22px;
+}
+
+.recipelink.odd a {
+  color: #f56302;
+}
+
+.recipelink.even a {
+  color: #ee9f44;
+}
