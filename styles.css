@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+body {
+  width: 600px;
+  margin: 0 auto;
+}
+
 img {
   height: 400px;
   width: auto;
@@ -30,4 +35,12 @@ h2 {
 
 .recipelink.even a {
   color: #ee9f44;
+}
+
+li {
+  margin-top: 5px;
+}
+
+li.odd {
+  background-color: #eeeeee;
 }
