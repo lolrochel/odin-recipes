@@ -27,6 +27,12 @@ h2 {
 
 .recipelink{
   font-size: 22px;
+  background-color: #eedacd;
+}
+
+.recipelink a{
+  padding: auto;
+  text-decoration: none;
 }
 
 .recipelink.odd a {
